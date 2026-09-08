@@ -104,4 +104,4 @@ This code is released under the [Creative Commons Attribution 4.0 International 
 
 ## Author
 
-Vincent Ader, Center for Inclusive and Mobility Excellence (CIME), University of Michigan.
+Vincent Ader, Center for Inclusive and Mobility Environments (CIME), University of Michigan.
