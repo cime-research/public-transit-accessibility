@@ -1,6 +1,6 @@
 # NaNDA Syntax — CIME Transit Adjacency & Availability Scripts
 
-R and Python scripts developed at the University of Michigan's Center for Inclusive and Mobility Excellence (CIME) to measure two transit-related metrics from GTFS, census, and destination data: **adjacency** (how many destinations are reachable from each census block under different traveler profiles) and **availability** (how much of each census block's area is within walking distance of transit service, and how frequently that service runs).
+R and Python scripts developed at the University of Michigan's Center for Inclusive Mobility Environments (CIME) to measure two transit-related metrics from GTFS, census, and destination data: **adjacency** (how many destinations are reachable from each census block under different traveler profiles) and **availability** (how much of each census block's area is within walking distance of transit service, and how frequently that service runs).
 
 ## Repository Contents
 
@@ -104,4 +104,4 @@ This code is released under the [Creative Commons Attribution 4.0 International 
 
 ## Author
 
-Vincent Ader, Center for Inclusive and Mobility Environments (CIME), University of Michigan.
+Vincent Ader, Center for Inclusive Mobility Environments (CIME), University of Michigan.
