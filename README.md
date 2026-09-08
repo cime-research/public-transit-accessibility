@@ -94,10 +94,6 @@ Aggregation of availability data to the tract is performed by buffering census t
 
 Claude was used to help develop this README.md file through analysis of scripts and comments.
 
-## License
-
-This code is released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. You are free to use, adapt, and redistribute it, provided you give appropriate credit.
-
 ## Citation
 
 [CITATION PENDING — authors, year, dataset/code title, and DOI/URL to be added once finalized.]
