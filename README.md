@@ -96,7 +96,7 @@ Claude was used to help develop this README.md file through analysis of scripts 
 
 ## Citation
 
-[CITATION PENDING — authors, year, dataset/code title, and DOI/URL to be added once finalized.]
+[![DOI](https://zenodo.org/badge/1361489398.svg)](https://doi.org/10.5281/zenodo.22680632)
 
 ## Author
 
