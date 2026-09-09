@@ -96,8 +96,9 @@ Claude was used to help develop this README.md file through analysis of scripts 
 
 ## Citation
 
-DOI: https://doi.org/10.5281/zenodo.22680632
+Ader, V. and Twardzik, E. (2026) _Public Transit Accessibility_ (v1.0.0) [Computer Software]. GitHub. https://github.com/cime-research/public-transit-accessibility. DOI: https://doi.org/10.5281/zenodo.22680632.
 
 ## Author
 
 Vincent Ader, Center for Inclusive Mobility Environments (CIME), University of Michigan.
+Erica Twardzik, Center for Inclusive Mobility Environments (CIME), University of Michigan
